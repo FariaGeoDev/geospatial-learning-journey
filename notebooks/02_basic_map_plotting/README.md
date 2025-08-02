@@ -19,5 +19,5 @@ Natural Earth Admin 0 – Countries (110m scale):
 
 ## 📸 Output
 
-![Africa Map](../images/day3_africa_map.png) *(optional if you add screenshots)*
+![Africa Map](../images/day3_africa_map.png) 
 
